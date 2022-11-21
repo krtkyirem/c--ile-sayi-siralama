@@ -1,0 +1,7 @@
+C:\Users\irems\Desktop\Github-Projeler\SayıSıralama\SayıSıralama\SayıSıralama\bin\Debug\SayıSıralama.exe.config
+C:\Users\irems\Desktop\Github-Projeler\SayıSıralama\SayıSıralama\SayıSıralama\bin\Debug\SayıSıralama.exe
+C:\Users\irems\Desktop\Github-Projeler\SayıSıralama\SayıSıralama\SayıSıralama\bin\Debug\SayıSıralama.pdb
+C:\Users\irems\Desktop\Github-Projeler\SayıSıralama\SayıSıralama\SayıSıralama\obj\Debug\SayıSıralama.csproj.AssemblyReference.cache
+C:\Users\irems\Desktop\Github-Projeler\SayıSıralama\SayıSıralama\SayıSıralama\obj\Debug\SayıSıralama.csproj.CoreCompileInputs.cache
+C:\Users\irems\Desktop\Github-Projeler\SayıSıralama\SayıSıralama\SayıSıralama\obj\Debug\SayıSıralama.exe
+C:\Users\irems\Desktop\Github-Projeler\SayıSıralama\SayıSıralama\SayıSıralama\obj\Debug\SayıSıralama.pdb
